@@ -1,0 +1,20 @@
+.social-media {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+
+.btn-title {
+    font-family: 'Basis Grotesque Pro', sans-serif;
+    margin-left: 10px;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 20px;
+    letter-spacing: 0;
+    text-align: left;
+}
+
+.btn-wrapper {
+    max-width: 192px;
+    width: 100%;
+}

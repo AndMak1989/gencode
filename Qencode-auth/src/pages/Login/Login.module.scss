@@ -1,0 +1,30 @@
+.divider-text {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--secondery-text-color);
+    background-color: var(--main-bg-color);
+    width: 18px;
+    height: 16px;
+    padding: 5px;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 16px;
+    text-transform: uppercase;
+}
+
+.controls {
+    padding: 30px 0;
+}
+.password-link {
+    display: flex;
+    justify-content: flex-end;
+    margin-top: 15px;
+}
+
+.control {
+    margin-bottom: 25px;
+}
+.sign-up-text {
+    margin-top: 20px;
+}
